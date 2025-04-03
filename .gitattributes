@@ -1,6 +1,0 @@
-*.bigfile_extension filter=lfs diff=lfs merge=lfs -text
-.png filter=lfs diff=lfs merge=lfs -text
-.ong filter=lfs diff=lfs merge=lfs -text
-my-large-folder/** filter=lfs diff=lfs merge=lfs -text
-data/* filter=lfs diff=lfs merge=lfs -text
-data/different[[:space:]]mass/* filter=lfs diff=lfs merge=lfs -text
